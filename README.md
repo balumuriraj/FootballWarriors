@@ -22,3 +22,19 @@ Following are the inferences:
 * League Winner -> King
 * UCL Winner -> Emperor
 * UCL Qualifier -> Knight
+
+## Stack
+Application and Data:
+* Javascript
+* Requirejs
+* threejs/snapsvg
+* react/angular
+* Mysql/MongoDB/Redis
+* Nodejs/Express
+* HTML5/CSS
+* Saas
+* Heroku
+* Grunt
+* Bower
+* Git
+
