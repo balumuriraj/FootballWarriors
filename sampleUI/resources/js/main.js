@@ -4,5 +4,7 @@
 "use strict";
 
 function showWars(){
-
+  console.log("test");
+  var warsModalId = document.getElementById("warsModal");
+  warsModalId.style.display = "block";
 }
