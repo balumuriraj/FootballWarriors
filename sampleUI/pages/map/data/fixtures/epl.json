@@ -1,0 +1,116 @@
+[
+	{
+		"type": "home",
+		"team": "Tottenham",
+		"date": "08/08/2015",
+		"time": "7:00"
+	},
+	{
+		"type": "away",
+		"team": "Aston Villa",
+		"date": "08/15/2015",
+		"time": "7:00"
+	},
+  {
+		"type": "home",
+		"team": "Newcastle",
+		"date": "08/22/2015",
+		"time": "7:00"
+	},
+	{
+		"type": "away",
+		"team": "Swansea City",
+		"date": "08/29/2015",
+		"time": "7:00"
+	},
+  {
+		"type": "home",
+		"team": "Liverpool",
+		"date": "09/12/2015",
+		"time": "7:00"
+	},
+	{
+		"type": "away",
+		"team": "Southampton",
+		"date": "09/19/2015",
+		"time": "7:00"
+	},
+  {
+		"type": "home",
+		"team": "Sunderland",
+		"date": "09/26/2015",
+		"time": "7:00"
+	},
+	{
+		"type": "away",
+		"team": "Arsenal",
+		"date": "10/03/2015",
+		"time": "7:00"
+	},
+  {
+		"type": "away",
+		"team": "Everton",
+		"date": "10/17/2015",
+		"time": "7:00"
+	},
+  {
+		"type": "home",
+		"team": "Man City",
+		"date": "10/24/2015",
+		"time": "7:00"
+	},
+	{
+		"type": "away",
+		"team": "Crystal Palace",
+		"date": "10/31/2015",
+		"time": "8:00"
+	},
+  {
+		"type": "home",
+		"team": "West Brom",
+		"date": "11/07/2015",
+		"time": "7:00"
+	},
+	{
+		"type": "away",
+		"team": "Watford",
+		"date": "11/21/2015",
+		"time": "7:00"
+	},
+  {
+		"type": "away",
+		"team": "Leicester City",
+		"date": "11/28/2015",
+		"time": "8:00"
+	},
+  {
+		"type": "home",
+		"team": "West Ham",
+		"date": "12/05/2015",
+		"time": "7:00"
+	},
+	{
+		"type": "away",
+		"team": "Bournemouth",
+		"date": "12/12/2015",
+		"time": "7:00"
+	},
+  {
+		"type": "home",
+		"team": "Norwich City",
+		"date": "12/19/2015",
+		"time": "7:00"
+	},
+	{
+		"type": "away",
+		"team": "Stoke City",
+		"date": "12/26/2015",
+		"time": "7:00"
+	},
+  {
+		"type": "home",
+		"team": "Chelsea",
+		"date": "12/28/2015",
+		"time": "7:00"
+	}
+]

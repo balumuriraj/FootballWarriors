@@ -1,0 +1,25 @@
+{
+  "name": "Football Warriors",
+  "version": "0.0.1",
+  "description": "What if a football team is a warrior...",
+  "homepage": "",
+  "author": "MohanRaj Balumuri",
+  "keywords": [
+    "soccer",
+    "football",
+    "Premier League",
+    "La Liga",
+    "Bundesliga",
+    "Champions League"
+  ],
+  "bugs": "https://github.com/balumuriraj/FootballWarriors/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balumuriraj/FootballWarriors"
+  },
+  "dependencies": {
+
+  },
+  "scripts": {},
+  "license": "MIT"
+}

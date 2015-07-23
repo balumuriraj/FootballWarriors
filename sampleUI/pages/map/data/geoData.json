@@ -1,0 +1,83 @@
+{
+
+  "Manchester United": {
+    "latitude": 53.463243,
+    "longitude": -2.291347
+  },
+  "Tottenham": {
+    "latitude": 51.603309,
+    "longitude": -0.066409
+  },
+  "Aston Villa": {
+    "latitude": 52.510094,
+    "longitude": -1.885856
+  },
+  "Newcastle": {
+    "latitude": 54.975700,
+    "longitude": -1.621642
+  },
+  "Swansea City": {
+    "latitude": 51.642886,
+    "longitude": -3.935296
+  },
+  "Liverpool": {
+    "latitude": 53.430991,
+    "longitude": -2.960831
+  },
+  "Southampton": {
+    "latitude": 50.905978,
+    "longitude": -1.390984
+  },
+  "Sunderland": {
+    "latitude": 54.914737,
+    "longitude": -1.388360
+  },
+  "Arsenal": {
+    "latitude": 51.555092,
+    "longitude": -0.108459
+  },
+   "Everton": {
+    "latitude": 53.439014,
+    "longitude": -2.966379
+  },
+  "Man City": {
+    "latitude": 53.483320,
+    "longitude": -2.200470
+  },
+  "Crystal Palace": {
+    "latitude": 51.398341,
+    "longitude": -0.085223
+  },
+  "West Brom": {
+    "latitude": 52.509314,
+    "longitude": -1.963910
+  },
+  "Watford": {
+    "latitude": 51.650456,
+    "longitude": -0.402208
+  },
+  "Leicester City": {
+    "latitude": 52.620451,
+    "longitude": -1.142305
+  },
+  "West Ham": {
+    "latitude": 51.532057,
+    "longitude": 0.039396
+  },
+  "Bournemouth": {
+    "latitude": 50.746722,
+    "longitude": -1.886620
+  },
+  "Norwich City": {
+    "latitude": 52.621898,
+    "longitude": 1.310368
+  },
+  "Stoke City": {
+    "latitude": 52.988423,
+    "longitude": -2.175464
+  },
+  "Chelsea": {
+    "latitude": 51.481918,
+    "longitude": -0.191005
+  }
+}

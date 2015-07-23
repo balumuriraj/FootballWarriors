@@ -1,0 +1,36 @@
+{
+  "name": "FootballWarriors",
+  "version": "0.0.1",
+  "homepage": "https://github.com/balumuriraj/FootballWarriors",
+  "authors": [
+    "MohanRaj Balumuri"
+  ],
+  "description": "What if a football team is a warrior...",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "soccer",
+    "football",
+    "Premier League",
+    "La Liga",
+    "Bundesliga",
+    "Champions League"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "normalize.css": "~3.0.3",
+    "modernizr-min": "~2.8.3"
+  }
+}
