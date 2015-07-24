@@ -8,6 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="stylesheet" href="bower_components/normalize.css/normalize.css">
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="resources/css/main.css">
   <script src="bower_components/modernizr-min/modernizr.min.js"></script>
 </head>
@@ -18,38 +19,40 @@
 <![endif]-->
 
 <!-- Add your site or application content here -->
-<div class="container-fluid">
-  <div class="menu-bar">
-    <div class="menu-title">
-      <div>
-        <a href="#">
-          <img src="resources/images/svg/Logos/spartan-gold.svg">
-        </a>
-        <span>Football Warriors</span>
+<div class="container-fluid menu-bar">
+  <div class="row">
+    <div class="col-md-5">
+        <ul class="menu-left">
+          <li>
+            <a href="#" onclick="showWars()">
+              kingdoms
+            </a>
+          </li>
+          <li>
+            <a href="#">
+              battles
+            </a>
+          </li>
+        </ul>
+    </div>
+    <div class="col-md-2">
+      <div class="menu-title">
+          <a href="#">
+            <img src="resources/images/svg/Logos/spartan-gold.svg">
+          </a>
       </div>
     </div>
-    <div class="menu-items">
-      <ul>
-        <li>
-          <a href="#" onclick="showWars()">
-            <img src="resources/images/svg/icons/crown.svg">
-            <span>wars</span>
-          </a>
-
-        </li>
+    <div class="col-md-5">
+      <ul class="menu-right">
         <li>
           <a href="#">
-            <img src="resources/images/svg/icons/battles.svg">
-            <span>battles</span>
+            stats
           </a>
-
         </li>
         <li>
           <a href="pages/map/map.html">
-            <img src="resources/images/svg/icons/map.svg">
-            <span>map</span>
+            map
           </a>
-
         </li>
       </ul>
     </div>
@@ -58,6 +61,7 @@
 
 <div class="wars-container" id="warsModal">
   <div class="wars-inner-container">
+    <p>choose a league</p>
     <ul>
       <li>
         <img src="resources/images/svg/Leagues/laLiga.svg">
@@ -77,6 +81,7 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="bower_components/jquery/dist/jquery.min.js"><\/script>')</script>
+<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
 <script src="resources/js/main.js"></script>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->

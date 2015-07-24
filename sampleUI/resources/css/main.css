@@ -22,60 +22,45 @@
   font-family: "Aleo Regular";
   src: url("../fonts/Aleo/Regular/aleo-regular-webfont.ttf") format('truetype');
 }
-.menu-bar {
-  padding: 1em 3em;
-}
-.menu-bar .menu-title,
-.menu-bar .menu-items {
-  display: inline-block;
+html,
+body {
+  background: #34495e;
   font-family: 'Nova Flat', Calibri;
 }
-.menu-bar .menu-title div img {
-  width: 100px;
-  height: 100px;
-}
-.menu-bar .menu-title div span {
-  display: none;
-  position: absolute;
-}
-.menu-bar .menu-title div a:hover ~ span {
-  display: block;
-  font-size: 0.75em;
-  padding: 1em 0;
+.menu-bar .menu-title {
   text-align: center;
 }
-.menu-bar .menu-items {
-  float: right;
+.menu-bar .menu-title img {
+  width: 12em;
+  height: auto;
 }
-.menu-bar .menu-items ul {
+.menu-bar .menu-left,
+.menu-bar .menu-right {
   list-style: none;
   padding: 0;
   margin: 0;
 }
-.menu-bar .menu-items ul li {
+.menu-bar .menu-left li,
+.menu-bar .menu-right li {
   display: inline-block;
 }
-.menu-bar .menu-items ul li a {
-  color: #999;
+.menu-bar .menu-left li a,
+.menu-bar .menu-right li a {
+  color: #ffffff;
   padding: 0.5em;
   margin-left: 1em;
-  font-size: 1.25em;
-  line-height: 0.85em;
+  font-size: 1.5em;
+  line-height: 7.5em;
+  vertical-align: middle;
   display: block;
   text-align: center;
   text-decoration: none;
 }
-.menu-bar .menu-items ul li a img {
-  width: 50px;
-  height: 50px;
-  display: inline-block;
-  vertical-align: middle;
+.menu-bar .menu-left {
+  text-align: right;
 }
-.menu-bar .menu-items ul li a span {
-  display: none;
-}
-.menu-bar .menu-items ul li:hover > a span {
-  display: inline-block;
+.menu-bar .menu-right {
+  text-align: left;
 }
 .wars-container {
   display: none;
@@ -94,6 +79,13 @@
   -moz-transform: translateX(-50%) translateY(-50%);
   -ms-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
+}
+.wars-container .wars-inner-container p {
+  margin: 0;
+  padding: 1em;
+  color: #34495e;
+  font-size: 2em;
+  text-align: center;
 }
 .wars-container .wars-inner-container ul {
   padding: 0;
