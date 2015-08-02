@@ -37,4 +37,3 @@ Application and Data:
 * Grunt
 * Bower
 * Git
-
